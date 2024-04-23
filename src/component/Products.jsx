@@ -4,7 +4,7 @@ import '../App.css'
 
 const Products = (prop) => {
     console.log(prop)
-    console.log("hii")
+
 
     return (
         <div id='Products-div' >
